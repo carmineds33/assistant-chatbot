@@ -1,0 +1,2 @@
+GPT_API_KEY = ''
+GPT_ASSISTANT_KEY = ''
